@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patrickmelorr-lang.github.io/mi-p-gina-web-personal/sitemap.xml
